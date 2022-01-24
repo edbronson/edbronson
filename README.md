@@ -18,8 +18,6 @@
   <img align="center" alt="Bronson-after" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
   <img align="center" alt="Bronson-after" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" />
   <img align="center" alt="Bronson-after" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-   
-  <img align="right" alt="Bronson-pic" height="150" style="border-radius:50px;" 
 </div>
  
 ###
